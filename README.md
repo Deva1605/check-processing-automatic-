@@ -9,9 +9,9 @@ Then second step will be paying to another user
 so, whenever the sender wants to pay then he will
 Fill up all the details of him and receiver and
 last he needs to fill signature by which we will
-provide digital signature which is fully secured
-so no one else can access other accounts
-After filling all the details the request will
-send it to bank and bank will link to receiver.
+provide digital signature for user verification
+which is fully secured so no one else can access 
+other accounts after filling all the details
+ the request will send it to bank and bank will link to receiver.
 This process will be instant and all the users
 will be beneficial by this process.
